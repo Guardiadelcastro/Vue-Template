@@ -1,0 +1,12 @@
+{
+  "presets": [
+    [
+      "env", {
+        "useBuiltIns": true
+      }
+    ]
+  ],
+  "ignore": [
+    "node_modules"
+  ]
+}

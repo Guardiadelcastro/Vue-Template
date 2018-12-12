@@ -1,0 +1,16 @@
+{
+  "brackets": "never",
+  "colons": "never",
+  "commaSpace": "always",
+  "commentSpace": "always",
+  "indentPref": 2,
+  "mixed": true,
+  "parenSpace": false,
+  "prefixVarsWithDollar": true,
+  "quotePref": "single",
+  "semicolons": "never",
+  "stackedProperties": "never",
+  "trailingWhitespace": "never",
+  "valid": false,
+  "zeroUnits": false
+}
